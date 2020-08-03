@@ -1,0 +1,6 @@
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\TestShit\obj\Debug\TestShit.csproj.CoreCompileInputs.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\TestShit\bin\Debug\TestShit.exe.config
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\TestShit\bin\Debug\TestShit.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\TestShit\bin\Debug\TestShit.pdb
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\TestShit\obj\Debug\TestShit.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\TestShit\obj\Debug\TestShit.pdb

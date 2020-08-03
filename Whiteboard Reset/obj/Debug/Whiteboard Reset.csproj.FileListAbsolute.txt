@@ -1,0 +1,6 @@
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\Whiteboard Reset\bin\Debug\Whiteboard Reset.exe.config
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\Whiteboard Reset\bin\Debug\Whiteboard Reset.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\Whiteboard Reset\bin\Debug\Whiteboard Reset.pdb
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\Whiteboard Reset\obj\Debug\Whiteboard Reset.csproj.CoreCompileInputs.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\Whiteboard Reset\obj\Debug\Whiteboard Reset.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\Whiteboard Reset\obj\Debug\Whiteboard Reset.pdb

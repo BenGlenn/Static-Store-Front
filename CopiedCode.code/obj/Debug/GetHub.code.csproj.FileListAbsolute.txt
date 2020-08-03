@@ -1,0 +1,6 @@
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\GetHub.code\obj\Debug\GetHub.code.csproj.CoreCompileInputs.cache
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\GetHub.code\bin\Debug\GetHub.code.exe.config
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\GetHub.code\bin\Debug\GetHub.code.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\GetHub.code\bin\Debug\GetHub.code.pdb
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\GetHub.code\obj\Debug\GetHub.code.exe
+C:\Users\ben\OneDrive\Desktop\ElevenFiftyProjects\GitHubFiles\GetHub.code\GetHub.code\obj\Debug\GetHub.code.pdb
