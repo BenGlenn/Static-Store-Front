@@ -39,7 +39,6 @@ namespace _04_IfElseStatements
             //Console.WriteLine("How many hours did you sleep?");
             //string input = Console.ReadLine();
             //int totalHours = int.Parse(input);
-
             //if (totalHours >= 8)
             //{
             //    Console.WriteLine("You should be well rested.");
